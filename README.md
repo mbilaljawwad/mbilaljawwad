@@ -1,5 +1,5 @@
 + 👋 Hi, I’m @mbilaljawwad
-+ 👀 I’m interested in JavaScript, React, Redux, Node, GraphQL, Phython etc.
++ 👀 I’m interested in JavaScript, Typescript, React, Redux, Node, GraphQL etc.
 + 💞️ I’m looking to collaborate on any open source project.
 + 📫 Reach me out at
   + Twitter: mbjSays
