@@ -1,9 +1,21 @@
 + 👋 Hi, I’m @mbilaljawwad
-+ 👀 I’m interested in JavaScript, Typescript, React, Redux, Node, GraphQL etc.
++ 💪 Competent in: 
+  + JavaScript
+  + Typescript
+  + HTML5
+  + CSS3
+  + React
+  + Next.js
+  + Redux
+  + Node
+  + Sass
+  + PostCSS
+  + TailwindCSS
+  + Mobile-first Development
+  + Docker
++ 👀 Interested in Python, Django, Golang, MySQL, PostGreSQL, Remix, Micro-frontends, Micro-Services, AWS Certifications.
 + 💞️ I’m looking to collaborate on any open source project.
 + 📫 Reach me out at
-  + Twitter: mbjSays
-  + Skype: bilal.jawwad
   + Linkedin: https://www.linkedin.com/in/muhammad-bilal-jawwad/
   + Github: mbilaljawwad
 
